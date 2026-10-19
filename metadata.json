@@ -1,0 +1,6 @@
+{
+  "name": "MangaLingo",
+  "description": "Floating screen translator for Android translating Japanese, Korean, Chinese, and English into Arabic over other apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
